@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://twelvecat.github.io/"/>
-  <updated>2019-03-13T13:19:49.744Z</updated>
+  <updated>2019-05-13T15:35:43.922Z</updated>
   <id>https://twelvecat.github.io/</id>
   
   <author>
@@ -17,41 +17,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello Twelve</title>
-    <link href="https://twelvecat.github.io/2019/03/13/Hello-Twelve/"/>
-    <id>https://twelvecat.github.io/2019/03/13/Hello-Twelve/</id>
-    <published>2019-03-13T11:17:33.000Z</published>
-    <updated>2019-03-13T13:19:49.744Z</updated>
+    <title>为啥搭建Blog</title>
+    <link href="https://twelvecat.github.io/2019/05/13/%E4%B8%BA%E5%95%A5%E6%90%AD%E5%BB%BABlog/"/>
+    <id>https://twelvecat.github.io/2019/05/13/为啥搭建Blog/</id>
+    <published>2019-05-13T15:35:43.000Z</published>
+    <updated>2019-05-13T15:35:43.922Z</updated>
     
-    <content type="html"><![CDATA[<p>那我就不客气了，随便写一点测试一下，表示庆祝Blog搭建完毕？:)</p>]]></content>
+    <content type="html"><![CDATA[<p>其实想去搭建一个博客很久了，从14年开始就陆陆续续的了解，大概对电脑的喜爱也是从那个时候开始的，每天最快乐的事情便是又学会了一些新技术，发现了一个新网站，虽然最后还是成为了一名收藏党。～(￣▽￣～)~</p><p>　　但是这几年也一直在不同的尝试，去尝试各种各样的事情，也算是断断续续学会了很多，不过也会忘记很多。记忆最深刻的还是小时候电脑经常坏（我发誓我没干坏事），就经常请别人来修，可是修电脑太贵了。于是我就每次都偷偷学，自习观察每一个按键每一步操作，一直到我鼓起勇气第一次拆机，虽然没修好，但是倒是告诉了自己，反正拆不坏的。于是人生轨迹迅速发生转变，越来越喜欢越来越想在多了解一些。</p><p>　　网络市场太杂乱，很多教程空而大，而很多教程又年代久远，导致这一路总是坎坎坷坷的过来，不过也学会了如何利用好搜索引擎。看那些大佬都有blog，贼厉害。于是不知道从什么时候开始就学着去搭建，失败过也成功过，每次开始的原因有千万个，但是放弃的原因只有一个，自己又不是 <del>帅哥</del> dalao，有什么博值得客的。这样的想法干扰了我很久，进了19年，网龄也奔向11年了， 10年来已经积累下不少的技能，也可以涉足很多方面，不管是服务器还是操作系统，又或者是嵌入式都有了解，对整个技术行业的理解也多了几分色彩。转念一想，可能是时候开始用blog去记录下自己之后学习的道路，也希望可以帮到比我还小白的陌生人。</p><p>　　毕竟</p><blockquote><p>滴水之恩，涌泉相报</p></blockquote><p>　　很感谢10年一路走来那些或有意无意给我指点的人，谢谢那些看过的blog，那些陪伴我渡过无数个日夜，无数次被收藏的文章。</p><p>　　现在我也会继续为漠漠广阔的 <strong>Internet</strong> 献出自己的一份力喽。但实际上我并不是一个高产的作者，甚至称不上作者，只能在自己的闲暇之余写点东西，断断续续的创作会导致文章的不经凑，只能说将就看吧。</p><p>　　我知道小白的心情，也知道很多学生口袋的紧张，所以所有的文章（除特殊性质）都尽可能的详细，也对读者提出一些要求和希望。</p><ul><li><p>可以转载可以分享可以保存收藏下载截图，但最好可以标注来源和作者</p></li><li><p><strong> 无需打赏 </strong> ，但请绝对不要用于任何商业用途，负责会依法追究</p></li><li><p>我更希望的是看到全网文章各展其色而不是千篇一律的抄袭，抄袭不会使我们进步</p></li><li><p>谢谢</p></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;那我就不客气了，随便写一点测试一下，表示庆祝Blog搭建完毕？:)&lt;/p&gt;
-
+        &lt;p&gt;其实想去搭建一个博客很久了，从14年开始就陆陆续续的了解，大概对电脑的喜爱也是从那个时候开始的，每天最快乐的事情便是又学会了一些新技术，发现了一个新网站，虽然最后还是成为了一名收藏党。～(￣▽￣～)~&lt;/p&gt;
+&lt;p&gt;　　但是这几年也一直在不同的尝试，去尝试各种各样的事情，也
       
     
     </summary>
     
     
+      <category term="闲谈" scheme="https://twelvecat.github.io/tags/%E9%97%B2%E8%B0%88/"/>
+    
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://twelvecat.github.io/2019/03/13/hello-world/"/>
-    <id>https://twelvecat.github.io/2019/03/13/hello-world/</id>
-    <published>2019-03-13T11:03:16.356Z</published>
-    <updated>2019-03-13T11:03:16.357Z</updated>
+    <title>Hello Twelve</title>
+    <link href="https://twelvecat.github.io/2019/03/13/Hello-Twelve/"/>
+    <id>https://twelvecat.github.io/2019/03/13/Hello-Twelve/</id>
+    <published>2019-03-13T11:17:33.000Z</published>
+    <updated>2019-05-12T16:42:33.361Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>那我就不客气了，随便写一点测试一下，表示庆祝Blog搭建完毕？: )</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;那我就不客气了，随便写一点测试一下，表示庆祝Blog搭建完毕？: )&lt;/p&gt;
+
       
     
     </summary>
